@@ -6,7 +6,7 @@ Manage my NPM warehouse
 
 1. crons
 2. fine-dog
-3. @shawdanon/first
+3. @shawdanon/first，测试库，废弃
 4. pnrm
 5. txp
 6. txp-first
